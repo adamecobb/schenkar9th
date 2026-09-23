@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="1108 9th Avenue South">
+  <rect width="64" height="64" fill="#15171B"/>
+  <g fill="none" stroke="#C49E4A" stroke-width="3.4" stroke-linecap="square">
+    <!-- shed roof with overhang -->
+    <path d="M9 22 L40 22 L55 17"/>
+    <!-- upper floor + deck line -->
+    <path d="M14 22 L14 34 L50 34"/>
+    <path d="M14 34 L50 34"/>
+    <!-- lower floor -->
+    <path d="M14 34 L14 48 L50 48 L50 30"/>
+  </g>
+  <g fill="#C49E4A">
+    <rect x="20" y="26" width="8" height="6"/>
+    <rect x="33" y="26" width="8" height="6"/>
+    <rect x="20" y="39" width="8" height="7"/>
+    <rect x="33" y="39" width="8" height="7"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "name": "1108 9th Avenue South — Edmonds, WA",
+  "short_name": "1108 Ninth",
+  "description": "New construction by Schenkar Construction. Listed by Adam E. Cobb, Windermere Real Estate GH LLC.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F5F2EA",
+  "theme_color": "#F5F2EA",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
