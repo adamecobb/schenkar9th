@@ -49,6 +49,7 @@ Settings → Pages. The deploy workflow picks the new address up on its own.
 | --- | --- |
 | `index.html` | **The entire site.** Every photo, the floor plans, the styling and the scripts are inside this one file. |
 | `og-image.jpg` | The photo shown when someone shares the link. Not used by the page itself. |
+| `schenkar-development-onboarding.pdf` | The builder's onboarding one-pager, embedded in the Build Yours section. Keep this file — the embed points at it. |
 | `404.html` | Shown if a visitor hits a bad link. |
 | `favicon.svg`, `apple-touch-icon.png`, `icon-*.png` | The little icon in the browser tab and on phone home screens. |
 | `site.webmanifest` | Lets the site be saved to a phone home screen. |
